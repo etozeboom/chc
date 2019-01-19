@@ -1,0 +1,59 @@
+\\PC88\Shared Space\p\p\bin\Debug\p.exe
+\\PC88\Shared Space\p\p\bin\Debug\p.pdb
+\\PC88\Shared Space\p\p\obj\x86\Debug\ResolveAssemblyReference.cache
+\\PC88\Shared Space\p\p\obj\x86\Debug\MainWindow.baml
+\\PC88\Shared Space\p\p\obj\x86\Debug\MainWindow.g.cs
+\\PC88\Shared Space\p\p\obj\x86\Debug\App.g.cs
+\\PC88\Shared Space\p\p\obj\x86\Debug\p_MarkupCompile.cache
+\\PC88\Shared Space\p\p\obj\x86\Debug\p.g.resources
+\\PC88\Shared Space\p\p\obj\x86\Debug\p.Properties.Resources.resources
+\\PC88\Shared Space\p\p\obj\x86\Debug\GenerateResource.read.1.tlog
+\\PC88\Shared Space\p\p\obj\x86\Debug\GenerateResource.write.1.tlog
+\\PC88\Shared Space\p\p\obj\x86\Debug\p.exe
+\\PC88\Shared Space\p\p\obj\x86\Debug\p.pdb
+C:\ProgramData\Shared Space\p\p\obj\x86\Debug\p.exe
+C:\ProgramData\Shared Space\p\p\obj\x86\Debug\p.pdb
+C:\ProgramData\Shared Space\p\p\bin\Debug\p.exe
+C:\ProgramData\Shared Space\p\p\bin\Debug\p.pdb
+C:\ProgramData\Shared Space\p\p\obj\x86\Debug\MainWindow.baml
+C:\ProgramData\Shared Space\p\p\obj\x86\Debug\MainWindow.g.cs
+C:\ProgramData\Shared Space\p\p\obj\x86\Debug\App.g.cs
+C:\ProgramData\Shared Space\p\p\obj\x86\Debug\p_MarkupCompile.cache
+C:\ProgramData\Shared Space\p\p\obj\x86\Debug\p.g.resources
+C:\ProgramData\Shared Space\p\p\obj\x86\Debug\p.Properties.Resources.resources
+C:\ProgramData\Shared Space\p\p\obj\x86\Debug\p.csproj.GenerateResource.Cache
+E:\p\p\obj\x86\Debug\p.exe
+E:\p\p\obj\x86\Debug\p.pdb
+E:\p\p\bin\Debug\p.exe
+E:\p\p\bin\Debug\p.pdb
+E:\p\p\obj\x86\Debug\MainWindow.baml
+E:\p\p\obj\x86\Debug\MainWindow.g.cs
+E:\p\p\obj\x86\Debug\App.g.cs
+E:\p\p\obj\x86\Debug\p_MarkupCompile.cache
+E:\p\p\obj\x86\Debug\p.g.resources
+E:\p\p\obj\x86\Debug\p.Properties.Resources.resources
+E:\p\p\obj\x86\Debug\p.csproj.GenerateResource.Cache
+L:\1\p\p\obj\x86\Debug\p.exe
+L:\1\p\p\obj\x86\Debug\p.pdb
+L:\1\p\p\bin\Debug\p.exe
+L:\1\p\p\bin\Debug\p.pdb
+L:\1\p\p\obj\x86\Debug\MainWindow.baml
+L:\1\p\p\obj\x86\Debug\MainWindow.g.cs
+L:\1\p\p\obj\x86\Debug\App.g.cs
+L:\1\p\p\obj\x86\Debug\p_MarkupCompile.cache
+L:\1\p\p\obj\x86\Debug\p.g.resources
+L:\1\p\p\obj\x86\Debug\p.Properties.Resources.resources
+L:\1\p\p\obj\x86\Debug\p.csproj.GenerateResource.Cache
+C:\Users\Андрей\Desktop\универ\Диплом\p\p\obj\x86\Debug\p.exe
+C:\Users\Андрей\Desktop\универ\Диплом\p\p\obj\x86\Debug\p.pdb
+C:\Users\Андрей\Desktop\универ\Диплом\p\p\bin\Debug\p.exe
+C:\Users\Андрей\Desktop\универ\Диплом\p\p\bin\Debug\p.pdb
+C:\Users\Андрей\Desktop\универ\Диплом\p\p\obj\x86\Debug\MainWindow.baml
+C:\Users\Андрей\Desktop\универ\Диплом\p\p\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Андрей\Desktop\универ\Диплом\p\p\obj\x86\Debug\App.g.cs
+C:\Users\Андрей\Desktop\универ\Диплом\p\p\obj\x86\Debug\p_MarkupCompile.cache
+C:\Users\Андрей\Desktop\универ\Диплом\p\p\obj\x86\Debug\p.g.resources
+C:\Users\Андрей\Desktop\универ\Диплом\p\p\obj\x86\Debug\p.Properties.Resources.resources
+C:\Users\Андрей\Desktop\универ\Диплом\p\p\obj\x86\Debug\p.csproj.GenerateResource.Cache
+C:\Users\Андрей\Desktop\универ\Диплом\p\p\obj\x86\Debug\p.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Desktop\универ\Диплом\p\p\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll

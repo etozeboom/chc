@@ -1,0 +1,13 @@
+C:\Users\Андрей\Desktop\универ\Диплом\p\p\obj\x86\Debug\p.exe
+C:\Users\Андрей\Desktop\универ\Диплом\p\p\obj\x86\Debug\p.pdb
+C:\Users\Андрей\Desktop\универ\Диплом\p\p\bin\Debug\p.exe
+C:\Users\Андрей\Desktop\универ\Диплом\p\p\bin\Debug\p.pdb
+C:\Users\Андрей\Desktop\универ\Диплом\p\p\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\Андрей\Desktop\универ\Диплом\p\p\obj\x86\Debug\CHCrMut.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Desktop\универ\Диплом\p\p\obj\x86\Debug\App.g.cs
+C:\Users\Андрей\Desktop\универ\Диплом\p\p\obj\x86\Debug\p_MarkupCompile.cache
+C:\Users\Андрей\Desktop\универ\Диплом\p\p\obj\x86\Debug\p.g.resources
+C:\Users\Андрей\Desktop\универ\Диплом\p\p\obj\x86\Debug\p.Properties.Resources.resources
+C:\Users\Андрей\Desktop\универ\Диплом\p\p\obj\x86\Debug\CHCrMut.csproj.GenerateResource.Cache
+C:\Users\Андрей\Desktop\универ\Диплом\p\p\obj\x86\Debug\MainWindow.baml
+C:\Users\Андрей\Desktop\универ\Диплом\p\p\obj\x86\Debug\MainWindow.g.cs
